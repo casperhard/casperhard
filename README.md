@@ -1,4 +1,5 @@
-## Hi there 👋
+ https://i.pinimg.com/736x/3a/0a/03/3a0a0345b4b3f836797ac186d25019fb.jpg
+## обо мне ✦
 
 <!--
 **casperhard/casperhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

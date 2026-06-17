@@ -14,16 +14,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="ТВОЯ_ССЫЛКА_НА_ТЕЛЕГРАМ">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,ЗДЕСЬ_БУДЕТ_ДЛИННЫЙ_BASE64_КОД"/>
-      <img src="data:image/svg+xml;base64,ЗДЕСЬ_БУДЕТ_ДЛИННЫЙ_BASE64_КОД" width="160" alt="Telegram"/>
-    </picture>
-  </a>
-</p>
-
-## (๑ᵔ⤙ᵔ๑)!! _обо мне_ ❤︎
+## ♯_обо мне_ ❤︎
 
 Фд ᴋᴏᴛᴏᴩыᴇ я ɜнᴀю:
 

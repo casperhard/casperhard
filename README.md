@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/cc/04/58/cc0458194d350f9fcb9f0ca1f6e1b37f.jpg)
+  ![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/cc/04/58/cc0458194d350f9fcb9f0ca1f6e1b37f.jpg)
 <p align="center">
   <a href="(t.me/Kiwis4)">
     <img src="https://img.shields.io/badge/Telegram-930500?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>

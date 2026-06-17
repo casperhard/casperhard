@@ -36,7 +36,7 @@
 __Я__
 мбтй: E𐌽FP; главное крыло:2ᥕ3; головной центр: 7ᥕ6; тритип: sx2sρ6s᧐9; пожизни: s᧐/sx.
 
-![Banner](https://i.pinimg.com/originals/9e/3c/6d/9e3c6d90dc5b7b67388b7813e7fbf50b.gif)
+![Banner](https://i.pinimg.com/originals/fd/d6/69/fdd66916928d99acb883a8755085ce9d.gif)
 
 
 

@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/3a/0a/03/3a0a0345b4b3f836797ac186d25019fb.jpg)
+![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/1a/f7/a2/1af7a24aece88a71a1deabebf3c28e2d.jpg)
 
  
 

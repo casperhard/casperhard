@@ -1,20 +1,19 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/1a/f7/a2/1af7a24aece88a71a1deabebf3c28e2d.jpg)
-
+![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/02/bc/ec/02bcec400182f9aeb4fa6fb137c62f67.jpg)
 <p align="center">
   <a href="(t.me/Kiwis4)">
-    <img src="https://img.shields.io/badge/Telegram-CC0000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-930500?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="(https://vk.com/haydagovr)">
-    <img src="https://img.shields.io/badge/ВКонтакте-CC0000?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+    <img src="https://img.shields.io/badge/ВКонтакте-930500?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
   <a href="(casperddx_51282)">
-    <img src="https://img.shields.io/badge/Discord-CC0000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-930500?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="(ССЫЛКА_НА_ПРОФИЛЬ_SPOTIFY](https://open.spotify.com/user/31cdrkkwftofeimvwq4vz47gnuzq?si=tcZPPoF0SwKfdRm93CQbrg)">
-    <img src="https://img.shields.io/badge/Spotify-CC0000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+    <img src="https://img.shields.io/badge/Spotify-930500?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
-  <a href="(ССЫЛКА_НА_ПЛЕЙЛИСТ_ЯНДЕКС](https://music.yandex.ru/users/nphne-wuldqkcb/playlists/1004?utm_medium=copy_link&ref_id=068cb0aa-c69a-4a8f-8c72-c165ab10a1d6)">
-<img src="https://img.shields.io/badge/Яндекс%20Музыка-CC0000?style=for-the-badge&logo=music&logoColor=white" alt="Яндекс Музыка"/>
+  <a href="(https://music.yandex.ru/users/nphne-wuldqkcb/playlists/1004?utm_medium=copy_link&ref_id=068cb0aa-c69a-4a8f-8c72-c165ab10a1d6)">
+<img src="https://img.shields.io/badge/Яндекс%20Музыка-930500?style=for-the-badge&logo=music&logoColor=white" alt="Яндекс Музыка"/>
 </p>
 
 ════════════════════════════════════════════════════════════════════════════════════

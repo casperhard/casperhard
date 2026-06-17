@@ -32,7 +32,7 @@ __Я__
 мбтй: E𐌽FP; главное крыло:2ᥕ3; головной центр: 7ᥕ6; тритип: sx2sρ6s᧐9; пожизни: s᧐/sx. 
 ════════════════════════════════════════════════════════════════════════════════════ 
    ![Banner](https://i.pinimg.com/originals/fd/d6/69/fdd66916928d99acb883a8755085ce9d.gif)   
-   <img src="assets/banner.png" width="300" alt="Баннер"/> ![Banner](https://i.pinimg.com/736x/ab/5a/97/ab5a97360445714cd29cc25246657676.jpg)
+   <img src="assets/banner.png" width="300" alt="https://i.pinimg.com/736x/ab/5a/97/ab5a97360445714cd29cc25246657676.jpg"/>
 
 
  ![Aditya Vikram Singh Banner](https://i.pinimg.com/1200x/79/0c/ec/790cec85fa743f4d236171e2c2b247db.jpg)

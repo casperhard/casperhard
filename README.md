@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <p align="center">
-<a href="https://www.adityavsingh.com"><img src=ttps%3A%2F%2Fopen.spotify.com%2Fuser%2F31cdrkkwftofeimvwq4vz47gnuzq%3Fsi%3DtcZPPoF0SwKfdRm93CQbrg&utf
+<a href=<img src=ttps%3A%2F%2Fopen.spotify.com%2Fuser%2F31cdrkkwftofeimvwq4vz47gnuzq%3Fsi%3DtcZPPoF0SwKfdRm93CQbrg&utf

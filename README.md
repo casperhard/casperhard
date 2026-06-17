@@ -5,7 +5,7 @@
 
 ## (๑ᵔ⤙ᵔ๑)!! обо мне ❤︎
 
-<!--
+
 **casperhard/casperhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p align="center">
-<a href=<img src=ttps%3A%2F%2Fopen.spotify.com%2Fuser%2F31cdrkkwftofeimvwq4vz47gnuzq%3Fsi%3DtcZPPoF0SwKfdRm93CQbrg&utf

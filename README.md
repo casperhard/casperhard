@@ -14,22 +14,14 @@
   </a>
 </p>
 
-
 <p align="center">
-  <a href="ТЕЛЕГА">
-    <img src="https://img.shields.io/badge/⭐-Telegram-CC0000?style=flat-square&logo=telegram&logoColor=white&labelColor=222222"/>
-  </a>
-  <a href="ВК">
-    <img src="https://img.shields.io/badge/⭐-ВКонтакте-CC0000?style=flat-square&logo=vk&logoColor=white&labelColor=222222"/>
-  </a>
-  <a href="СПОТИФАЙ">
-    <img src="https://img.shields.io/badge/⭐-Spotify-CC0000?style=flat-square&logo=spotify&logoColor=white&labelColor=222222"/>
-  </a>
-  <a href="ЯНДЕКС">
-    <img src="https://img.shields.io/badge/⭐-Яндекс%20Музыка-CC0000?style=flat-square&logo=yandex&logoColor=white&labelColor=222222"/>
+  <a href="ТВОЯ_ССЫЛКА_НА_ТЕЛЕГРАМ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;base64,ЗДЕСЬ_БУДЕТ_ДЛИННЫЙ_BASE64_КОД"/>
+      <img src="data:image/svg+xml;base64,ЗДЕСЬ_БУДЕТ_ДЛИННЫЙ_BASE64_КОД" width="160" alt="Telegram"/>
+    </picture>
   </a>
 </p>
-
 
 ## (๑ᵔ⤙ᵔ๑)!! _обо мне_ ❤︎
 

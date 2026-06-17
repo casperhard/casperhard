@@ -17,18 +17,19 @@
 
 <p align="center">
   <a href="ТЕЛЕГА">
-    <img src="https://img.shields.io/badge/Telegram-CC0000?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⭐-Telegram-CC0000?style=flat-square&logo=telegram&logoColor=white&labelColor=222222"/>
   </a>
   <a href="ВК">
-    <img src="https://img.shields.io/badge/ВКонтакте-CC0000?style=for-the-badge&logo=vk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⭐-ВКонтакте-CC0000?style=flat-square&logo=vk&logoColor=white&labelColor=222222"/>
   </a>
   <a href="СПОТИФАЙ">
-    <img src="https://img.shields.io/badge/Spotify-CC0000?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⭐-Spotify-CC0000?style=flat-square&logo=spotify&logoColor=white&labelColor=222222"/>
   </a>
-  <a href="ЯНДЕКС_МУЗЫКА">
-    <img src="https://img.shields.io/badge/Яндекс%20Музыка-CC0000?style=for-the-badge&logo=yandex&logoColor=white"/>
+  <a href="ЯНДЕКС">
+    <img src="https://img.shields.io/badge/⭐-Яндекс%20Музыка-CC0000?style=flat-square&logo=yandex&logoColor=white&labelColor=222222"/>
   </a>
 </p>
+
 
 ## (๑ᵔ⤙ᵔ๑)!! _обо мне_ ❤︎
 

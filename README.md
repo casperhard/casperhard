@@ -9,15 +9,10 @@
   <a href="(casperddx_51282)">
     <img src="https://img.shields.io/badge/Discord-930500?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="(ССЫЛКА_НА_ПРОФИЛЬ_SPOTIFY](https://open.spotify.com/user/31cdrkkwftofeimvwq4vz47gnuzq?si=tcZPPoF0SwKfdRm93CQbrg)">
+  <a href="(https://open.spotify.com/user/31cdrkkwftofeimvwq4vz47gnuzq?si=tcZPPoF0SwKfdRm93CQbrg)">
     <img src="https://img.shields.io/badge/Spotify-930500?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
-  <a href="(https://music.yandex.ru/users/nphne-wuldqkcb/playlists/1004?utm_medium=copy_link&ref_id=068cb0aa-c69a-4a8f-8c72-c165ab10a1d6)">
-<img src="https://img.shields.io/badge/Яндекс%20Музыка-930500?style=for-the-badge&logo=music&logoColor=white" alt="Яндекс Музыка"/>
 </p>
-
-════════════════════════════════════════════════════════════════════════════════════
-
 
 ## (๑ᵔ⤙ᵔ๑)!! _обо мне_ ❤︎
 
@@ -34,6 +29,7 @@
                                                                                                                                                                         
 __Я__
 мбтй: E𐌽FP; главное крыло:2ᥕ3; головной центр: 7ᥕ6; тритип: sx2sρ6s᧐9; пожизни: s᧐/sx. 
+════════════════════════════════════════════════════════════════════════════════════ 
    ![Banner](https://i.pinimg.com/originals/fd/d6/69/fdd66916928d99acb883a8755085ce9d.gif)
 
 

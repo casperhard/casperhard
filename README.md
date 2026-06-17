@@ -1,5 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">https://i.pinimg.com/originals/9e/3c/6d/9e3c6d90dc5b7b67388b7813e7fbf50b.gif
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
  
 

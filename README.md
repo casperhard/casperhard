@@ -14,6 +14,22 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="ТЕЛЕГА">
+    <img src="https://img.shields.io/badge/Telegram-CC0000?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="ВК">
+    <img src="https://img.shields.io/badge/ВКонтакте-CC0000?style=for-the-badge&logo=vk&logoColor=white"/>
+  </a>
+  <a href="СПОТИФАЙ">
+    <img src="https://img.shields.io/badge/Spotify-CC0000?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+  <a href="ЯНДЕКС_МУЗЫКА">
+    <img src="https://img.shields.io/badge/Яндекс%20Музыка-CC0000?style=for-the-badge&logo=yandex&logoColor=white"/>
+  </a>
+</p>
+
 ## (๑ᵔ⤙ᵔ๑)!! _обо мне_ ❤︎
 
 Фд ᴋᴏᴛᴏᴩыᴇ я ɜнᴀю:

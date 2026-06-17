@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/3a/0a/03/3a0a0345b4b3f836797ac186d25019fb.jpg)
 
  
 

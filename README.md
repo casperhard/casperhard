@@ -1,5 +1,16 @@
 ![Aditya Vikram Singh Banner](https://i.pinimg.com/736x/1a/f7/a2/1af7a24aece88a71a1deabebf3c28e2d.jpg)
 
+<p align="center">
+  <a href="(t.me/Kiwis4)">
+    <img src="https://img.shields.io/badge/Telegram-CC0000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="(https://vk.com/haydagovr)">
+    <img src="https://img.shields.io/badge/ВКонтакте-CC0000?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+  <a href="(casperddx_51282)">
+    <img src="https://img.shields.io/badge/Discord-CC0000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ════════════════════════════════════════════════════════════════════════════════════
 
@@ -12,7 +23,7 @@
 
 ⊹₊˚‧︵‿₊୨❤︎୧₊‿︵‧˚₊⊹
 
-𐌑᧐ᥙ ᧘юδᥙⲙыᥱ ᥙᥴᥰ᧐᧘нᥙᴛᥱ᧘ᥙ!![Banner](https://i.pinimg.com/originals/92/49/21/924921f03066badf160c34fadcef83f0.gif)
+𐌑᧐ᥙ ᧘юδᥙⲙыᥱ ᥙᥴᥰ᧐᧘нᥙᴛᥱ᧘ᥙ!![Banner]
 
 Э᧘ᥱκᴛρ᧐ɸ᧐ρᥱз, 𐌺᧐ᥴᥙ᧐ᥰᥱя, 𑀝Ᏽ5, Fᥲᥣᥣ 𐌏ᥙᴛ B᧐y, ᏵF𐌏TY, 𑀝᧐зʙᥱздᥙᥱ 𐌏ᴛρᥱз᧐κ,T᧐y-B᧐x, Tɦᥱ 𑀉iviᥒg T᧐ⲙδsᴛ᧐ᥒᥱ, P𐋏IᏵTI𐌽Ᏽ 𐌏𐍃T, 𑀉APF𐌏X TRAX.
 ⊹₊˚‧︵‿₊୨❤︎୧₊‿︵‧˚₊⊹

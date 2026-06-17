@@ -33,3 +33,4 @@ __Я__
    ![Banner](https://i.pinimg.com/originals/fd/d6/69/fdd66916928d99acb883a8755085ce9d.gif)
 
 
+ ![Aditya Vikram Singh Banner](https://i.pinimg.com/1200x/79/0c/ec/790cec85fa743f4d236171e2c2b247db.jpg)

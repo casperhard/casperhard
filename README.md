@@ -21,6 +21,12 @@
 
 МᴀᴇᴩГᴩᴏʍ, Disᴩᴀᴛᴄh, Fᴏrsᴀᴋᴇn, ^_^,DᴀndyWᴏrd's, BᴀdThing, TRU:D, BlᴏᴄᴋTᴀlᴇs, PHIGTING, Lᴏlᴏlᴏwᴋᴀ, NinjᴀGᴏ, SᴏuᴛhPᴀrᴋ, TF2, Rᴇgrᴇᴛᴇvᴀᴛᴏr, Evᴀdᴇ, DᴏD, Kiᴛᴛy, Prᴇssurᴇ, MinᴇShild, Cᴏunᴛryhuʍᴀns, Dᴇᴛrᴏiᴛ, Grinᴇvᴇrᴇ, MLP, fnᴀf, SᴋullGirls, CᴏC, AʍᴏngThᴇSlᴇᴇᴩ, ThᴇVisiᴛᴏr, Gᴀrry'sMᴏd, HᴀᴩᴩyTrᴇᴇFriᴇnds, BᴇhᴏldᴇrCᴏnduᴛᴏr, I'ʍNᴏᴛAHuʍᴀn, CᴀsᴛlᴇOfNᴀᴛiᴏns, LᴇgᴏMᴏviᴇ, NighᴛInThᴇWᴏᴏʙs, Gᴀsᴀ4, DiᴄᴋFigurᴇs, ThᴇHᴇnrySᴛiᴄᴋʍinCᴏllᴇᴄᴛiᴏn, AvsMS, LᴇᴛMᴇGᴏ, KᴀijuPᴀrᴀdisᴇ, Mᴏuᴛhwᴀshing, DʙD, LifᴇSᴛᴀngᴇ, AniʍᴀlCrᴏssing, RᴇsidᴇnᴛEvil4, GᴏdOfWᴀr, Sᴛrᴀy, DᴏᴋiDᴏᴋi, Bᴇndy, HᴇllᴏNᴇighʙᴏr, Cuᴩhᴇᴀd, YᴀndᴇrᴇSiʍulᴀᴛᴏr, ThᴇSiʍs4, Mᴇwgᴇniᴄs, RᴇsidᴇnᴛEvil, SilᴇnᴛHill, Sᴛrᴀy, ThᴇSᴛᴀnᴋᴇyPᴀrᴀʙlᴇ, Suʙnᴀuᴛiᴄᴀ, LiᴛᴛlᴇNighᴛʍᴀrᴇ, FrᴇᴀrsTᴏFᴀᴛhᴏʍ, VᴏiᴄᴇsOfThᴇVᴏid, Insᴄryᴩᴛiᴏn..
 
+
+
+ ![Banner](https://i.pinimg.com/736x/a9/06/32/a906323f06988d223bc867cbf8f23608.jpg)
+
+
+
 ⊹₊˚‧︵‿₊୨❤︎୧₊‿︵‧˚₊⊹
 
 𐌑᧐ᥙ ᧘юδᥙⲙыᥱ ᥙᥴᥰ᧐᧘нᥙᴛᥱ᧘ᥙ!![Banner]
@@ -31,8 +37,7 @@
 __Я__
 мбтй: E𐌽FP; главное крыло:2ᥕ3; головной центр: 7ᥕ6; тритип: sx2sρ6s᧐9; пожизни: s᧐/sx. 
 ════════════════════════════════════════════════════════════════════════════════════ 
-   ![Banner](https://i.pinimg.com/originals/fd/d6/69/fdd66916928d99acb883a8755085ce9d.gif)   <img src="assets/banner.png" style="width: 300px;" alt="(https://i.pinimg.com/736x/ab/5a/97/ab5a97360445714cd29cc25246657676.jpg)"/>
-  
+   ![Banner](https://i.pinimg.com/originals/fd/d6/69/fdd66916928d99acb883a8755085ce9d.gif)  
 
 
 

@@ -10,6 +10,11 @@
   <a href="(casperddx_51282)">
     <img src="https://img.shields.io/badge/Discord-CC0000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <a href="(ССЫЛКА_НА_ПРОФИЛЬ_SPOTIFY](https://open.spotify.com/user/31cdrkkwftofeimvwq4vz47gnuzq?si=tcZPPoF0SwKfdRm93CQbrg)">
+    <img src="https://img.shields.io/badge/Spotify-CC0000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  <a href="(ССЫЛКА_НА_ПЛЕЙЛИСТ_ЯНДЕКС](https://music.yandex.ru/users/nphne-wuldqkcb/playlists/1004?utm_medium=copy_link&ref_id=068cb0aa-c69a-4a8f-8c72-c165ab10a1d6)">
+ <img src="https://img.shields.io/badge/Яндекс%20Музыка-CC0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Яндекс Музыка"/>
 </p>
 
 ════════════════════════════════════════════════════════════════════════════════════
